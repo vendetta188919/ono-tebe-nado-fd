@@ -111,7 +111,7 @@
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
   font-size: 22px;
-  line-height: 28px; 
+  line-height: 28px;
   text-transform: uppercase;
   word-spacing: 18px;
 }
@@ -217,7 +217,7 @@
 .lots__look-more-link {
   display: block;
   margin-top: 31px;
-  margin-left: 41px; 
+  margin-left: 41px;
   color: #000;
   font-family: 'Raleway', sans-serif;
   font-weight: 400;
@@ -283,11 +283,11 @@
 }
 
 .footer__menu {
-  justify-self: center; 
+  justify-self: center;
 }
 
 .footer__menu-list {
-  text-align: center;
+  text-align: center; 
   list-style: none;
 }
 
